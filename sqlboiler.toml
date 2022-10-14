@@ -8,7 +8,7 @@ add-global-variants = true
 [psql]
 dbname = "postgres"
 host = "localhost"
-port = 2345
+port = 5432
 user = "postgres"
 pass = "postgres"
 sslmode = "disable"
